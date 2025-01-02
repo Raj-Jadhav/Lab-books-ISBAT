@@ -1,4 +1,4 @@
-/*a program that checks if a user is eligible to vote at ISBAT university. The program should
+/*A program that checks if a user is eligible to vote at ISBAT university. The program should
 prompt the user to enter age, an if the age is equal or above 18 years, it should display that the
 user is eligible to vote*/
 #include <stdio.h>
