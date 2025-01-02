@@ -1,5 +1,7 @@
-/* A program that uses two functions. One function is used to display your student name and
-student number. The second function is used to add two numbers and display the result.*/
+/* A program that uses two functions. One function is used to display your 
+student name and student number. The second function is used to add two 
+numbers and display the result.
+*/
 #include <stdio.h>
 void get_studentinfo(char name[50],char roll_number[50]);
 double addNumbers(double num1, double num2, double sum);
@@ -38,3 +40,4 @@ double addNumbers(double num1, double num2, double sum){
     
     return sum;
 }
+//16.0 learning cprog
